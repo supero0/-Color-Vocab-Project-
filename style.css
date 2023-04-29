@@ -1,0 +1,27 @@
+
+.red{color: red;
+    font-weight: normal;
+    height: 200px;
+    width: 200px;}
+    .blue{color: blue;
+    font-weight: normal;
+    height: 200px;
+    width: 200px;}
+    .orange{color: orange;
+    font-weight: normal;
+    height: 200px;
+    width: 200px;}
+    .green{color: green;
+    font-weight: normal;
+    height: 200px;
+    width: 200px;}
+    .yellow{color: yellow;
+    font-weight: normal;
+    height: 200px;
+    width: 200px;}
+
+    .color-red{color: red;}
+    .color-blue{color: blue;}
+    .color-orange{color: orange;}
+    .color-green{color: green;}
+    .color-yellow{color: yellow;}
